@@ -20,7 +20,7 @@ package
 			_tf = new TextField();
 			_tf.x = 4;
 			_tf.y = 4;
-			_tf.width = stage.stageWidth - 8;
+			_tf.width = 550-8;
 			_tf.height = 24;
 			
 			_tf.type = TextFieldType.INPUT;
